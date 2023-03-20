@@ -1,0 +1,101 @@
+[
+    {
+        "Title" : "Accidental Mascot (Business Toad)",
+        "Medium" : "Digital Pixel Art",
+        "Size" : "64px x 64px",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/AccidentalMascot.jpg",
+        "FullResURL" : "./images/gallery/fullres/AccidentalMascot.jpg"
+    },
+    {
+        "Title" : "Bug Cupcake",
+        "Medium" : "Digital",
+        "Size" : "828px x 1517px",
+        "Year" : 0,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/BugCupcake.jpg",
+        "FullResURL" : "./images/gallery/fullres/BugCupcake.jpg"
+    },
+    {
+        "Title" : "First Painting",
+        "Medium" : "Acrylic on Canvas",
+        "Size" : "18\" x 24\"",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/FirstPainting.jpg",
+        "FullResURL" : "./images/gallery/fullres/FirstPainting.jpg"
+    },
+    {
+        "Title" : "Foreboding Cherish",
+        "Medium" : "Digital",
+        "Size" : "823px x 803px",
+        "Year" : 0,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/ForebodingCherish.jpg",
+        "FullResURL" : "./images/gallery/fullres/ForebodingCherish.jpg"
+    },
+    {
+        "Title" : "Gumi Ice Cream",
+        "Medium" : "Digital",
+        "Size" : "828px x 1259px",
+        "Year" : 0,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/GumiIceCream.jpg",
+        "FullResURL" : "./images/gallery/fullres/GumiIceCream.jpg"
+    },
+    {
+        "Title" : "In a Blink - Icons",
+        "Medium" : "Digital",
+        "Size" : "",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/InABlinkIcons.jpg",
+        "FullResURL" : "./images/gallery/fullres/InABlinkIcons.jpg"
+    },
+    {
+        "Title" : "In a Blink - Poster",
+        "Medium" : "Digital",
+        "Size" : "",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/InABlinkPoster.jpg",
+        "FullResURL" : "./images/gallery/fullres/InABlinkPoster.jpg"
+    },
+    {
+        "Title" : "Phasmophobia",
+        "Medium" : "Digital",
+        "Size" : "1033px x 828px",
+        "Year" : 0,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/Phasmophobia.PNG",
+        "FullResURL" : "./images/gallery/fullres/Phasmophobia.PNG"
+    },
+    {
+        "Title" : "Plauge Commission",
+        "Medium" : "Digital",
+        "Size" : "828px x 1792px",
+        "Year" : 0,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/PlaugeCommission.png",
+        "FullResURL" : "./images/gallery/fullres/PlaugeCommission.PNG"
+    },
+    {
+        "Title" : "Rubber Dino Gameplay Concept",
+        "Medium" : "Digital",
+        "Size" : "",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/RubberDinosaurGameplayConcept.jpg",
+        "FullResURL" : "./images/gallery/fullres/RubberDinosaurGameplayConcept.jpg"
+    },
+    {
+        "Title" : "Rubber Dino Menu Concept",
+        "Medium" : "Digital",
+        "Size" : "",
+        "Year" : 2022,
+        "Description" : "",
+        "ThumbURL" : "./images/gallery/thumbs/RubberDinosaurMenuConcept.jpg",
+        "FullResURL" : "./images/gallery/fullres/RubberDinosaurMenuConcept.jpg"
+    }
+]
