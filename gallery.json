@@ -4,7 +4,7 @@
         "Medium" : "Digital Pixel Art",
         "Size" : "64px x 64px",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "A picture of Business Toad.",
         "ThumbURL" : "./images/gallery/thumbs/AccidentalMascot.jpg",
         "FullResURL" : "./images/gallery/fullres/AccidentalMascot.jpg"
     },
@@ -12,8 +12,8 @@
         "Title" : "Bug Cupcake",
         "Medium" : "Digital",
         "Size" : "828px x 1517px",
-        "Year" : 0,
-        "Description" : "",
+        "Year" : 2022,
+        "Description" : "A picture of Bug Cupcake.",
         "ThumbURL" : "./images/gallery/thumbs/BugCupcake.jpg",
         "FullResURL" : "./images/gallery/fullres/BugCupcake.jpg"
     },
@@ -22,7 +22,7 @@
         "Medium" : "Acrylic on Canvas",
         "Size" : "18\" x 24\"",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "A painting made in Painting 1 at UW-Stout.",
         "ThumbURL" : "./images/gallery/thumbs/FirstPainting.jpg",
         "FullResURL" : "./images/gallery/fullres/FirstPainting.jpg"
     },
@@ -30,8 +30,8 @@
         "Title" : "Foreboding Cherish",
         "Medium" : "Digital",
         "Size" : "823px x 803px",
-        "Year" : 0,
-        "Description" : "",
+        "Year" : 2022,
+        "Description" : "A D&D character played in 2020. This Barbarian prefers the diplomatic approach to any problem, but always carries her home made battle axe just in case.",
         "ThumbURL" : "./images/gallery/thumbs/ForebodingCherish.jpg",
         "FullResURL" : "./images/gallery/fullres/ForebodingCherish.jpg"
     },
@@ -39,17 +39,17 @@
         "Title" : "Gumi Ice Cream",
         "Medium" : "Digital",
         "Size" : "828px x 1259px",
-        "Year" : 0,
-        "Description" : "",
+        "Year" : 2022,
+        "Description" : "A picture of Gumi enjoying an ice pop.",
         "ThumbURL" : "./images/gallery/thumbs/GumiIceCream.jpg",
         "FullResURL" : "./images/gallery/fullres/GumiIceCream.jpg"
     },
     {
         "Title" : "In a Blink - Icons",
         "Medium" : "Digital",
-        "Size" : "",
+        "Size" : "N/A",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "Various icons for the game: In a Blink.",
         "ThumbURL" : "./images/gallery/thumbs/InABlinkIcons.jpg",
         "FullResURL" : "./images/gallery/fullres/InABlinkIcons.jpg"
     },
@@ -58,7 +58,7 @@
         "Medium" : "Digital",
         "Size" : "",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "2022 SGX poster for the game: In a Blink.",
         "ThumbURL" : "./images/gallery/thumbs/InABlinkPoster.jpg",
         "FullResURL" : "./images/gallery/fullres/InABlinkPoster.jpg"
     },
@@ -66,8 +66,8 @@
         "Title" : "Phasmophobia",
         "Medium" : "Digital",
         "Size" : "1033px x 828px",
-        "Year" : 0,
-        "Description" : "",
+        "Year" : 2022,
+        "Description" : "Fan art for the game: Phasmophobia.",
         "ThumbURL" : "./images/gallery/thumbs/Phasmophobia.PNG",
         "FullResURL" : "./images/gallery/fullres/Phasmophobia.PNG"
     },
@@ -75,26 +75,26 @@
         "Title" : "Plauge Commission",
         "Medium" : "Digital",
         "Size" : "828px x 1792px",
-        "Year" : 0,
-        "Description" : "",
+        "Year" : 2022,
+        "Description" : "A commission for a character.",
         "ThumbURL" : "./images/gallery/thumbs/PlaugeCommission.png",
         "FullResURL" : "./images/gallery/fullres/PlaugeCommission.PNG"
     },
     {
         "Title" : "Rubber Dino Gameplay Concept",
         "Medium" : "Digital",
-        "Size" : "",
+        "Size" : "N/A",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "Gameplay concept art for the game: Rubber Dino.",
         "ThumbURL" : "./images/gallery/thumbs/RubberDinosaurGameplayConcept.jpg",
         "FullResURL" : "./images/gallery/fullres/RubberDinosaurGameplayConcept.jpg"
     },
     {
         "Title" : "Rubber Dino Menu Concept",
         "Medium" : "Digital",
-        "Size" : "",
+        "Size" : "N/A",
         "Year" : 2022,
-        "Description" : "",
+        "Description" : "UI concept art for the game: Rubber Dino.",
         "ThumbURL" : "./images/gallery/thumbs/RubberDinosaurMenuConcept.jpg",
         "FullResURL" : "./images/gallery/fullres/RubberDinosaurMenuConcept.jpg"
     }
